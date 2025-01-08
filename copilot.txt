@@ -11,7 +11,7 @@ A Restack backend application should be structured as follows:
     - workflows/
         - __init__.py
         - workflow.py
-    - services.py
+    - services.py@
     - schedule_workflow.py
     - pyproject.toml
     - env.example
